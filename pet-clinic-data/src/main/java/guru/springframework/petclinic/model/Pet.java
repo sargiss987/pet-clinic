@@ -1,5 +1,3 @@
-package guru.springframework.petclinic;
-
 import java.time.LocalDate;
 
 public class Pet {

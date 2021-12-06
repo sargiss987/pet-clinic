@@ -1,5 +1,3 @@
-package guru.springframework.petclinic;
-
 public class Person {
 
     private String firstName;
