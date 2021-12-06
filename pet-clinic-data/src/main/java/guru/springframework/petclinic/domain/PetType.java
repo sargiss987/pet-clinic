@@ -1,3 +1,5 @@
+package guru.springframework.petclinic.domain;
+
 public class PetType {
 
     private  String name;
